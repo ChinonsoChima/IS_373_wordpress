@@ -1,11 +1,11 @@
-#IS 373 Wordpress Project
+# IS 373 Wordpress Project
 ### By Chinonso Chima-Anyanka
 
-#Homepage
+# Homepage
 ![Homepage](screenshots/home.png)
-#Users
+# Users
 ![Users](screenshots/users.png)
-#Posts
+# Posts
 ![Posts](screenshots/posts.png)
-#Comments
+# Comments
 ![Comments](screenshots/comments.png)
